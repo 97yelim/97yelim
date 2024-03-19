@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/axios-373e47?style=for-the-badge&logo=axios&logoColor=withe">
 <img src="https://img.shields.io/badge/recoil-373e47?style=for-the-badge&logo=recoil&logoColor=3578E5">
 <img src="https://img.shields.io/badge/reactquery-373e47?style=for-the-badge&logo=reactquery&logoColor=FF4154">
-<img src="https://img.shields.io/badge/tailwindcss-373e47?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
 <img  src="https://img.shields.io/badge/styled-components-373e47?style=for-the-badge&logo=styled-components&logoColor=DB7093">
 <img src="https://img.shields.io/badge/html5-373e47?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/css3-373e47?style=for-the-badge&logo=css3&logoColor=1572B6">
